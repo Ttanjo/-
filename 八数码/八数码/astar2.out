@@ -1,0 +1,48 @@
+Case 1:
+
+2   8
+1 6 3
+7 5 4
+
+2 8  
+1 6 3
+7 5 4
+
+2 8 3
+1 6  
+7 5 4
+
+2 8 3
+1 6 4
+7 5  
+
+2 8 3
+1 6 4
+7   5
+
+2 8 3
+1   4
+7 6 5
+
+2   3
+1 8 4
+7 6 5
+
+  2 3
+1 8 4
+7 6 5
+
+1 2 3
+  8 4
+7 6 5
+
+1 2 3
+8   4
+7 6 5
+
+Num of steps: 9
+Num of expanded: 11
+Num of generated: 20
+Time consumed: 2
+
+Total time consumed: 2
